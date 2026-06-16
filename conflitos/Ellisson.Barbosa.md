@@ -1,3 +1,4 @@
 # Conflito individual
-Controle de Vers„o com Git
-Linha de decis„o: vers„o do instrutor
+Linha de decis√£o final:
+- vers√£o do instrutor
+- minha vers√£o
