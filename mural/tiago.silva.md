@@ -1,4 +1,4 @@
-# Tiago Guilherma
+# Tiago Guilherme
 - Curso: Residência em Microeletrônica 
 - Expectativa: entender o fluxo de Git
 
@@ -8,4 +8,5 @@ I`ll close this page now.
 
 
 ===================================================
+
 Here I changed the branch to my_change 
