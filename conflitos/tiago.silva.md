@@ -1,3 +1,6 @@
 # Conflito individual 
 
-Linha de decisão: versão do instrutor
+Linha de decisao final:
+
+- versão do instrutor
+- minha versão
